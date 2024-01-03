@@ -1,0 +1,11 @@
+/Users/emateus/Documents/truecol/backend/target/debug/deps/libsemver_parser-d64fab7a94a6ac7d.rmeta: /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs
+
+/Users/emateus/Documents/truecol/backend/target/debug/deps/libsemver_parser-d64fab7a94a6ac7d.rlib: /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs
+
+/Users/emateus/Documents/truecol/backend/target/debug/deps/semver_parser-d64fab7a94a6ac7d.d: /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs
+
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/lib.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/version.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/range.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/common.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-parser-0.7.0/src/recognize.rs:

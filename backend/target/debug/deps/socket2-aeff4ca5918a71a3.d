@@ -1,0 +1,11 @@
+/Users/emateus/Documents/truecol/backend/target/debug/deps/libsocket2-aeff4ca5918a71a3.rmeta: /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs
+
+/Users/emateus/Documents/truecol/backend/target/debug/deps/libsocket2-aeff4ca5918a71a3.rlib: /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs
+
+/Users/emateus/Documents/truecol/backend/target/debug/deps/socket2-aeff4ca5918a71a3.d: /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs /Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs
+
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/lib.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockaddr.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/socket.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sockref.rs:
+/Users/emateus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.5/src/sys/unix.rs:
